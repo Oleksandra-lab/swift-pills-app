@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/swift-pills-app/static/css/main.7acaea2f.css",
+    "main.js": "/swift-pills-app/static/js/main.ae77747c.js",
+    "index.html": "/swift-pills-app/index.html",
+    "main.7acaea2f.css.map": "/swift-pills-app/static/css/main.7acaea2f.css.map",
+    "main.ae77747c.js.map": "/swift-pills-app/static/js/main.ae77747c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.ae77747c.js"
+  ]
+}
